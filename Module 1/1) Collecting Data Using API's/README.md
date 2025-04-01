@@ -1,5 +1,3 @@
-<h1>Jobs_API Script</h1>
-
 <h2><strong>Description</strong></h2>
 <p>
   The <strong>Jobs_API</strong> script is designed to launch a locally hosted website that displays JSON data in a table format for easy visualization.
