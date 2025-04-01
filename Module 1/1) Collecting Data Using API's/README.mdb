@@ -1,10 +1,10 @@
-## **Description**
+**Description**
 The **Jobs_API** script is designed to launch a locally hosted website that displays JSON data in a table format. This provides an easy way to visualize and interact with the data.
 
-## **Issue Encountered**
+**Issue Encountered**
 The script did not work as expected for me. The process of launching the locally hosted website was unsuccessful.
 
-## **Workaround**
+**Workaround**
 Instead of using the script, I opted to:
 1. Download the JSON file directly to my local machine.
 2. Access and manipulate the data locally without relying on the hosted website.
